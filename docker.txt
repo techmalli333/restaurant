@@ -22,6 +22,8 @@ DOCKER COMMANDS
   > sudo docker pull elasticsearch:7.17.1  // if we provide the tags(7.17.1) it pull the particular version
   > sudo docker run centos sleep 10  // after completion of work sleep 10 seconds
   > sudo docker container prune // remove all containers
+  
+  > docker exec -it <container> kill 1		// cannot stop container: <containnerId>: permission denied
 
 
 
