@@ -1,0 +1,376 @@
+{
+  "items": [
+    {
+      "category": "pizza",
+      "id": "44302a2e-cb06-11ec-9d64-0242ac120q02",
+      "name": "Al Baik",
+      "url": "141c53886873a4437e990a98453648ff_1547670686.avif"
+    },
+    {
+      "category": "pizza",
+      "id": "44302a2e-cb06-11ec-9d64-0242a120q02",
+      "name": "Smokin Joe's",
+      "url": "3a7b8873f9a45a5f118dd33e360f4a1f.avif"
+    },
+    {
+      "category": "pizza",
+      "id": "44302a2e-cb0-11ec-9d64-0242ac120q02",
+      "name": "Smokin' Joe's cherrry",
+      "url": "7f4571dbf98311c540def60f31169b8f.avif"
+    },
+    {
+      "category": "pizza",
+      "id": "44302a2e-cb06-11ec-9d64-0242acah20q02",
+      "name": "pizza Caprina",
+      "url": "0def38db808ff5ee044841d4ed8ffd9f.avif"
+    },
+    {
+      "category": "pizza",
+      "id": "44302a2e-sakf-11ec-9d64-0242ac120q02",
+      "name": "Eva's pizza chilli",
+      "url": "73c855fe26cfcac0e44ebaa7d9c2f5ce.avif"
+    },
+    {
+      "category": "pizza",
+      "id": "44jahfb2a2e-cb06-11ec-asjdf-0242ac120q02",
+      "name": "Hundo pizza",
+      "url": "97180e25682e0d884fb349885660f9f2.avif"
+    },
+    {
+      "category": "pizza",
+      "id": "44302a2e-cb06-11ec-9d64-0242acksfbq02",
+      "name": "Francesco's Pizzeria",
+      "url": "af2e32fb0c2acacae01a88742f4f19a9.avif"
+    },
+    {
+      "category": "pizza",
+      "id": "443lja2e-cb06-11ec-9d64-0242ac120q02",
+      "name": "Sbarro - New York pizza",
+      "url": "53d11b4cd070e71eb00709e82620d546.avif"
+    },
+    {
+      "category": "pizza",
+      "id": "44302a2e-cb06-iqahe-9d64-0242ac120q02",
+      "name": "Creamy Tomato Pasta pizza - Veg",
+      "url": "8e598eaf8cb3a0ec1a0dc974b1358d6d.avif"
+    },
+    {
+      "category": "pizza",
+      "id": "44302a2e-aj06-11ec-9d64-0242ac120q02",
+      "name": "Moroccan Spice Pasta pizza - Veg",
+      "url": "5c4d9929d3455665e9410609eea297bf.avif"
+    },
+    {
+      "category": "pizza",
+      "id": "44302a2e-cb06-11ec-ad64-0242ac120q02",
+      "name": "Moroccan Spice Pasta pizza - Non Veg",
+      "url": "d9d8db012462fa5b69a2113ecfb9ea67.avif"
+    },
+    {
+      "category": "pizza",
+      "id": "443akla2e-cb06-11ec-9d64-0242ac120q02",
+      "name": "The Cheese Dominator",
+      "url": "65d0843e1ded20ff18f82b743af2490f.avif"
+    },
+    {
+      "category": "pizza",
+      "id": "4weura2e-cb06-11ec-9d64-0242ac120q02",
+      "name": "Margherita",
+      "url": "db2fb46200a9d41110d7a552e4f69f47.avif"
+    },
+    {
+      "category": "pizza",
+      "id": "44302a2e-cb06-11ec-9d64-024i2q3ui120q02",
+      "name": "Double Cheese Margherita",
+      "url": "db2fb46200a9d41110d7a552e4f69f47 (1).avif"
+    },
+    {
+      "category": "pizza",
+      "id": "44302a2e-cb06-11ec-kjda-0242ac120q02",
+      "name": "The 4 Cheese pizza",
+      "url": "fa9897b2639fab22862c1ef36db20bac.avif"
+    },
+    {
+      "category": "pizza",
+      "id": "44302a2e-cb06-11ec-ppp-0242ac120q02",
+      "name": "Peppy Paneer",
+      "url": "06c9dcc4f29d4c1ef77171844560a410.avif"
+    },
+    {
+      "category": "pizza",
+      "id": "44302a2e-cb06-11ec-qwqw-0242ac120q02",
+      "name": "5 Pepper",
+      "url": "3b380c0be0126cab16df5e1f0a24a7e1.avif"
+    },
+    {
+      "category": "pizza",
+      "id": "44302a2e-cb06-11ec-erer-0242ac120q02",
+      "name": "Paneer Makhani",
+      "url": "9bb5bd3a9091dfff002a6bc953c2c167.avif"
+    },
+    {
+      "category": "pizza",
+      "id": "44302a2e-cb06-11ec-ere-0242ac120q02",
+      "name": "Indi Tandoori Paneer",
+      "url": "febfde767bd3543e6b8d9094f2531665.avif"
+    },
+    {
+      "category": "pizza",
+      "id": "44302a2e-cb06-11ec-tyt-0242ac120q02",
+      "name": "Moroccan Spice Pasta pizza - Non Veg",
+      "url": "d9d8db012462fa5b69a2113ecfb9ea67 (1).avif"
+    },
+    {
+      "category": "burger",
+      "id": "44302a2e-cb06-11ec-yuy-0242ac120q02",
+      "name": "Classic Vegetarian Burger",
+      "url": "196621ef49b736b850b287e1e9665eb3.avif"
+    },
+    {
+      "category": "burger",
+      "id": "44302a2e-cb06-11ec-uiiu-0242ac120q02",
+      "name": "Spinach & Paneer Burger",
+      "url": "e2dbc1de11bb913ef8e7d298f0601f92.avif"
+    },
+    {
+      "category": "burger",
+      "id": "44302a2e-cb06-11ec-ioi-0242ac120q02",
+      "name": "Mushroom Burger",
+      "url": "4c687c08e71e7e5f4225e58a8bd7e6d7.avif"
+    },
+    {
+      "category": "burger",
+      "id": "44302a2e-cb06-11ec-oppo-0242ac120q02",
+      "name": "Mexican Burger",
+      "url": "41faba4851098479d014842b86edc299.avif"
+    },
+    {
+      "category": "burger",
+      "id": "44302a2e-cb06-11ec-asd-0242ac120q02",
+      "name": "Classic Jain Burger",
+      "url": "4e8c6f68c14dd749442db097edda7095.avif"
+    },
+    {
+      "category": "burger",
+      "id": "44302a2e-cb06-11ec-dfd-0242ac120q02",
+      "name": "Spinach & Paneer Jain Burger",
+      "url": "0d11c23e4c9879163de79cb419c04c9a.avif"
+    },
+    {
+      "category": "burger",
+      "id": "44302a2e-cb06-11ec-fgf-0242ac120q02",
+      "name": "Crispy Chicken Burger",
+      "url": "f581badf75ce2432468fc1f818ca7971.avif"
+    },
+    {
+      "category": "burger",
+      "id": "44302a2e-cb06-11ec-ghg-0242ac120q02",
+      "name": "Pulled Pork Burger",
+      "url": "54e7a41e64e0b1de4a71e67f3a7ad294.avif"
+    },
+    {
+      "category": "burger",
+      "id": "44302a2e-cb06-11ec-hj-0242ac120q02",
+      "name": "Falafel Burger",
+      "url": "ed783a828c185b7e306ce2f95cad286c.avif"
+    },
+    {
+      "category": "burger",
+      "id": "44302a2e-cb06-11ec-jkjk-0242ac120q02",
+      "name": "Pizza Bites (3 Pcs)",
+      "url": "57364330e0f1610827f843f0974667e3.avif"
+    },
+    {
+      "category": "biryani",
+      "id": "44302a2e-cb06-11ec-klk-0242ac120q02",
+      "name": "Makhmali Afghani Chicken Tikka Biryani",
+      "url": "617817051b95e92d62d58625b92c6605.avif"
+    },
+    {
+      "category": "biryani",
+      "id": "44302a2e-cb06-11ec-zxz-0242ac120q02",
+      "name": "Paneer Makhani Biryani",
+      "url": "928bb7c2b746eb4c2af9a736103d800b.avif"
+    },
+    {
+      "category": "biryani",
+      "id": "44302a2e-cb06-11ec-xcc-0242ac120q02",
+      "name": "Chatpata Chicken Tikka Biryani",
+      "url": "25f96ecf68e1d37975f86b2eec3a1725.avif"
+    },
+    {
+      "category": "biryani",
+      "id": "44302a2e-cb06-11ec-cv-0242ac120q02",
+      "name": "Ustaadi Hyderabadi Chicken Biryani",
+      "url": "5428dc67f3b6322755b5a9abbb087402.avif"
+    },
+    {
+      "category": "biryani",
+      "id": "44302a2e-cb06-11ec-vbbn-0242ac120q02",
+      "name": "Dum Baked Awadhi Chicken Biryani",
+      "url": "f8938d09834b0ae610f72d146617fad1.avif"
+    },
+    {
+      "category": "biryani",
+      "id": "44302a2e-cb06-11ec-nmm-0242ac120q02",
+      "name": "Dum Baked Chicken Tikka Biryani",
+      "url": "07acd5dbd9285ae28e221826a92a2067.avif"
+    },
+    {
+      "category": "biryani",
+      "id": "44302a2e-cb06-11ec-9d64-asas",
+      "name": "Makhmali Afghani Veg Biryani",
+      "url": "dbaf748016788f661d904e6c3f08eb3b.avif"
+    },
+    {
+      "category": "biryani",
+      "id": "44302a2e-cb06-11ec-9d64-fdf",
+      "name": "Kathal Biryani",
+      "url": "dda4a05c12f4c7d3bb9fbda2eedd6303.avif"
+    },
+    {
+      "category": "biryani",
+      "id": "44302a2e-cb06-11ec-9d64-ereer",
+      "name": "Subz Paneer Biryani",
+      "url": "15949211b1541c2d8cade55136c2e8be.avif"
+    },
+    {
+      "category": "biryani",
+      "id": "44302a2e-cb06-11ec-9d64-rtr",
+      "name": "Malabar Prawn Biryani",
+      "url": "03ddddec1d541984246fd113bbdc1b02.avif"
+    },
+    {
+      "category": "biryani",
+      "id": "44302a2e-cb06-11ec-9d64-tytuy",
+      "name": "Dehlnavi Chicken Biryani",
+      "url": "a730af897199aee303fdc07864d18bde.avif"
+    },
+    {
+      "category": "biryani",
+      "id": "44302a2e-cb06-11ec-9d64-ewesdf",
+      "name": "Andhra Chicken Biryani",
+      "url": "90785424a20f4b517ca0d92f4b2900e3.avif"
+    },
+    {
+      "category": "biryani",
+      "id": "44302a2e-cb06-11ec-9d64-tyuhdfv",
+      "name": "Mutton Keema Biryani",
+      "url": "6aaedf900068fd368866c9c8ecd0a0dd.avif"
+    },
+    {
+      "category": "biryani",
+      "id": "44302a2e-cb06-11ec-9d64-sgyy4rf",
+      "name": "Gosht Bohri Biryani",
+      "url": "4a37e2cc5fd779914374e2bed90f7356.jpg"
+    },
+    {
+      "category": "biryani",
+      "id": "44302a2e-cb06-11ec-9d64-sdgrtdg",
+      "name": "Kolkata Mutton Biryani",
+      "url": "aa2150e0ef005247cfc6238c3e643213.avif"
+    },
+    {
+      "category": "IceCream",
+      "id": "44302a2e-cb06-11ec-9d64-srt",
+      "name": "Trixy Blueberry Cheesecake Sundae",
+      "url": "449c2704885b7c60a52941ca2da6f7f2.avif"
+    },
+    {
+      "category": "IceCream",
+      "id": "44302a2e-cb06-11ec-9d64-7trtg",
+      "name": "Cornetto Chokissimo",
+      "url": "c5a2630f4fd27bd096dd1800610bef8d.avif"
+    },
+    {
+      "category": "IceCream",
+      "id": "44302a2e-cb06-11ec-9d64-nder",
+      "name": "Cornetto Double Chocolate",
+      "url": "e8c02f9fa4475c20e3fd5890916f730a.avif"
+    },
+    {
+      "category": "IceCream",
+      "id": "44302a2e-cb06-11ec-9d64-t6r7r",
+      "name": "Blackcurrent & Raisins",
+      "url": "92a950b4a6013437fc4b20046a57a896.avif"
+    },
+    {
+      "category": "IceCream",
+      "id": "44302a2e-cb06-11ec-9d64-6e54rfdd",
+      "name": "Strawberry",
+      "url": "58e7ac120d696154837477d82a1e0165.avif"
+    },
+    {
+      "category": "IceCream",
+      "id": "44302a2e-cb06-11ec-9d64-64w",
+      "name": "Chocolate",
+      "url": "4094564fd77dfb3eeea76c40963adbcf.avif"
+    },
+    {
+      "category": "IceCream",
+      "id": "44302a2e-cb06-11ec-9d64-45w46t",
+      "name": "American Nuts 500 GM",
+      "url": "095a3826b0fed4368e5ab215cfe285ae.avif"
+    },
+    {
+      "category": "IceCream",
+      "id": "44302a2e-cb06-11ec-9d64-y8km",
+      "name": "Maple Walnut Praline 750 ML Tub",
+      "url": "4583e96d85974ae6d7da0569ece6b83e.avif"
+    },
+    {
+      "category": "IceCream",
+      "id": "44302a2e-cb06-11ec-9d64-7re65wat4",
+      "name": "American Nut Medium Scoop (240 ML)",
+      "url": "f5768235b55da849e0f835c04c174269.avif"
+    },
+    {
+      "category": "IceCream",
+      "id": "44302a2e-cb06-11ec-9d64-a34t5",
+      "name": "BELGIAN SENSATION Secret",
+      "url": "9bbc17c115001e939b9d1b60d48e58ce.avif"
+    },
+    {
+      "category": "IceCream",
+      "id": "44302a2e-cb06-11ec-9d64-wq4eyju",
+      "name": "Nutty Belgian Dark Chocolate Large Scoop (300 ML)",
+      "url": "b0b8a87efb26dbce43e4c2b91a5edf5d.avif"
+    },
+    {
+      "category": "milkShake",
+      "id": "44302a2e-cb06-11ec-9d64-ccnxhd",
+      "name": "Classic CHOCOLATE",
+      "url": "498a46872ee8a186711e1a033b061726.avif"
+    },
+    {
+      "category": "milkShake",
+      "id": "44302a2e-cb06-11ec-9d64-yutrr",
+      "name": "Classic DRY FRUIT",
+      "url": "9f964982ebb07283f236fe84cc0e9c62.avif"
+    },
+    {
+      "category": "milkShake",
+      "id": "44302a2e-cb06-11ec-9d64-0242at98t87yc120q02",
+      "name": "Classic STRAWBERRY",
+      "url": "e7558693081fca91fd5d8dcdae880db5.avif"
+    },
+    {
+      "category": "milkShake",
+      "id": "44302a2e-cb06-11ec-9d64-j4513",
+      "name": "Cold Coffee",
+      "url": "0286e80638ed9dba036b5894e3a4d489.avif"
+    },
+    {
+      "category": "milkShake",
+      "id": "44302a2e-cb06-11ec-9d64-a3w45",
+      "name": "HAVMOR KULFI Special",
+      "url": "80f7227a2a7929fa8467846ba947f39e.avif"
+    },
+    {
+      "category": "milkShake",
+      "id": "44302a2e-cb06-11ec-9d64-7rfvs",
+      "name": "PINEAPPLE Punch",
+      "url": "e3f8617e41ef1ce2ef60ed3c530aadcf.avif"
+    }
+  ]
+}
